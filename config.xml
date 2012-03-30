@@ -15,7 +15,7 @@
 		Charles Desouza
 	</author>
 
-	<icon src="icon.png" gap:role="default" />
+    <icon src="icons/icon.png" default="true"/>
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
